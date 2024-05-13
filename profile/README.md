@@ -4,18 +4,18 @@ This project aims to build [Apache Beam®](https://beam.apache.org/) I/O Connect
 
 ## AWS Services
 
-|Connector name|Status|Source Supported|Sink Supported|Batch Supported|Streaming Supported|
-|:------|:-----:|:-----:|:-----:|:-----:|:-----:|
-|Firehose|🚧|✘|✔|✔|✔|
-|SQS|🚧|✔|✔|✔|✔|
-|SNS|🚧|✘|✔|✔|✔|
-|DynamoDB|🚧|✔|✔|✔|✔|
+|Connector name|Source Supported|Sink Supported|Batch Supported|Streaming Supported|
+|:------|:-----:|:-----:|:-----:|:-----:|
+|Firehose|✘|🚧|🚧|🚧|
+|SQS|🚧|🚧|🚧|🚧|
+|SNS|✘|🚧|🚧|🚧|
+|DynamoDB|🚧|🚧|🚧|🚧|
 
 ## Open Table Format
 
-|Connector name|Status|Source Supported|Sink Supported|Batch Supported|Streaming Supported|
-|:------|:-----:|:-----:|:-----:|:-----:|:-----:|
-|Apache Iceberg|🚧|✔|✔|✔|✔|❓|
+|Connector name|Source Supported|Sink Supported|Batch Supported|Streaming Supported|
+|:------|:-----:|:-----:|:-----:|:-----:|
+|Apache Iceberg|🚧|🚧|🚧|🚧|🚧|
 
 ## Code of Conduct
 
