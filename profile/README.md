@@ -19,4 +19,4 @@ This project aims to build [Apache Beam®](https://beam.apache.org/) I/O Connect
 
 ## Code of Conduct
 
-> TO BE UPDATED
+All *Apache Beam Python I/O Connectors* projects are governed by the project [Code of Conduct](./CONDUCT.md). Please review that and keep it in mind in all interactions.
