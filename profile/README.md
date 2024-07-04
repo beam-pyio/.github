@@ -1,6 +1,6 @@
 # Apache Beam Python I/O Connectors
 
-This project aims to build [Apache Beam®](https://beam.apache.org/) I/O Connectors using the Python SDK.
+This project aims to build [Apache Beam®](https://beam.apache.org/) I/O Connectors using the Python SDK. Visit the [project website](https://beam-pyio.github.io/) for more details.
 
 ## AWS Services
 
