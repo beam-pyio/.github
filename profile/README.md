@@ -2,6 +2,8 @@
 
 This project aims to build [Apache Beam®](https://beam.apache.org/) I/O Connectors using the Python SDK. Visit the [project website](https://beam-pyio.github.io/) for more details.
 
+We keep looking into adding new connectors. If you have a new idea, please add a comment to [this discussion](https://github.com/orgs/beam-pyio/discussions/4).
+
 ## AWS Services
 
 I/O connectors for selective AWS services. They are developed by interfacing with the [boto3 package](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html).
