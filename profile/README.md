@@ -10,7 +10,7 @@ I/O connectors for selective AWS services. They are developed by interfacing wit
 
 |Connector name|Source Supported|Sink Supported|Batch Supported|Streaming Supported|
 |:------|:-----:|:-----:|:-----:|:-----:|
-|[firehose_pyio](https://github.com/beam-pyio/firehose_pyio)|✘|📅|📅|📅|
+|[firehose_pyio](https://github.com/beam-pyio/firehose_pyio)|✘|✔️|✔️|✔️|
 |sqs_pyio|📅|📅|📅|📅|
 |[sns_pyio](https://github.com/beam-pyio/sns_pyio)|✘|📅|📅|📅|
 |dynamodb_pyio|📅|📅|📅|📅|
