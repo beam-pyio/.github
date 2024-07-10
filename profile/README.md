@@ -10,11 +10,11 @@ I/O connectors for selective AWS services. They are developed by interfacing wit
 
 |Connector name|Source Supported|Sink Supported|Batch Supported|Streaming Supported|
 |:------|:-----:|:-----:|:-----:|:-----:|
-|[firehose_pyio](https://github.com/beam-pyio/firehose_pyio)|✘|✔|✔|✔|
+|[firehose_pyio](https://github.com/beam-pyio/firehose_pyio)|❌|✔️|✔️|✔️|
 |sqs_pyio|📅|📅|📅|📅|
-|[sns_pyio](https://github.com/beam-pyio/sns_pyio)|✘|📅|📅|📅|
+|[sns_pyio](https://github.com/beam-pyio/sns_pyio)|❌|📅|📅|📅|
 |dynamodb_pyio|📅|📅|📅|📅|
-|eventbridge_pyio|✘|📅|📅|📅|
+|eventbridge_pyio|❌|📅|📅|📅|
 
 ## SQL Sources
 
@@ -22,7 +22,7 @@ It connects to over 20 databases, data warehouses and query engines by integrati
 
 |Connector name|Source Supported|Sink Supported|Batch Supported|Streaming Supported|
 |:------|:-----:|:-----:|:-----:|:-----:|
-|sql_pyio|📅|📅|📅|✘|
+|sql_pyio|📅|📅|📅|❌|
 
 ## Open Table Format
 
@@ -30,9 +30,9 @@ These packages connect to popular open table formats including [Apache Iceberg](
 
 |Connector name|Source Supported|Sink Supported|Batch Supported|Streaming Supported|
 |:------|:-----:|:-----:|:-----:|:-----:|
-|iceberg_pyio|📅|📅|📅|✘|
-|hudi_pyio|📅|📅|📅|✘|
-|deltalake_pyio|📅|📅|📅|✘|
+|iceberg_pyio|📅|📅|📅|❌|
+|hudi_pyio|📅|📅|📅|❌|
+|deltalake_pyio|📅|📅|📅|❌|
 
 ## Code of Conduct
 
